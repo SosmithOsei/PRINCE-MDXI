@@ -9,7 +9,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {PRINCE-MDX~5PPKyIEWlpwcfzdNv2cw
+    "SESSION_ID": { PRINCE-MDX~5PPKyIEWlpwcfzdNv2cw
       "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
       "required": true,
       "value": ""
